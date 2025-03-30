@@ -1,0 +1,8 @@
+HTTP/1.1 403 Forbidden
+Date: Sun, 30 Mar 2025 20:28:17 GMT
+Server: Apache
+Content-Length: 80
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+Status 403 Forbidden: User-Agent required. Contact iana@iana.org with questions.
